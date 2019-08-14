@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-03T19:18:34-04:00
+
+====== Grovel, Cower, and Be ======
+Created Saturday 03 August 2019
+
+As an action on your turn, you can cower pathetically to distract nearby foes. 
+Until the end of your next turn, your allies gain advantage on attack rolls against enemies within 10 feet of you that can see you. 
+Once you use this trait, you can't use it again until you finish a short or long rest.

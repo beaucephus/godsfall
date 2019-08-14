@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-03T19:15:41-04:00
+
+====== Second Wind ======
+Created Saturday 03 August 2019
+
+You have a limited well of stamina that you can draw on to protect yourself from harm. 
+On Your Turn, you can use a Bonus Action to regain Hit Points equal to 1d10 + your Fighter level.
+
+Once you use this feature, you must finish a short or Long Rest before you can use it again.

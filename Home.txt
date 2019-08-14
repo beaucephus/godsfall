@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-03T19:06:54-04:00
+
+====== Home ======
+Created Saturday 03 August 2019
+
+====== Eugene & Bowtie ======
+
+Remember Eugene's Dragon Tooth that he stole from Albrek (Big Papa) who is chasing him across the multiverse to get it back.
+
+HP: 40
+
+[[Inventory]]
+
+[[Darkvision]] (Kobold)
+[[Pack Tactics]] (Kobold)
+[[Sunlight Sensitivity]] (Kobold)
+
+[[Born to the Saddle]]
+[[Unwavering Mark]]
+
+[[Bowtie]]
+
+short rest
+	[[Grovel, Cower, and Be]] (Kobold)
+	[[Second Wind]] 
+	[[Action Surge]]
+	
+long rest
+	[[Unwavering Mark]] (attacks only)
+
+
+===== 2019/08/03 =====
+
+hp: 27
+2 hit dice
+second wind
+action surge
+
+
+
+
+

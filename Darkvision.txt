@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-03T19:17:35-04:00
+
+====== Darkvision ======
+Created Saturday 03 August 2019
+
+You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. 
+You can't discern color in darkness, only shades of gray.
