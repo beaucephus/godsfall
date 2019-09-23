@@ -21,6 +21,7 @@ HP: 40
 [[Unwavering Mark]]
 
 [[Bowtie]]
+[[Mounted Combat]]
 
 short rest
 	[[Grovel, Cower, and Be]] (Kobold)
@@ -31,12 +32,25 @@ long rest
 	[[Unwavering Mark]] (attacks only)
 
 
-===== 2019/08/03 =====
-
-hp: 27
-2 hit dice
-second wind
+===== 20129/09/22 =====
+HP: 24
 action surge
+second wind
+
+YOU ARE FRIGHTENED
+REMEMBER CAVALIER MARK
+
+Fought Sea Hag
+Fought water monsters
+Emerald eye trap
+Locked door
+	halfling - danger
+	elvish - safe
+	draconic - danger
+
+
+===== 2019/08/03 =====
+long rest
 
 
 
