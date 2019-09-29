@@ -11,10 +11,14 @@ scotch bonnet scorpion on a stick
 	+5 to hit
 	4 piercing + 1d10 fire damage
 light crossbow
+	Name 	Cost 	Damage 	Weight 	Properties
+	Crossbow, Light 	25 gp 	1d8 piercing 	5 lbs 	Ammunition, Loading, (Range 80/320), Two-Handed
 seaweed net
+[[Wand of Magic Missle]]
 
 ===== Armor =====
 leather armor
 
 ===== Other =====
+1200GP
 2 owl-bear beaks

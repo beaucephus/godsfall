@@ -32,14 +32,13 @@ long rest
 	[[Unwavering Mark]] (attacks only)
 
 
-===== 20129/09/22 =====
-HP: 24
+===== 2019/09/28 =====
+HP: 9
 action surge
 second wind
 
-YOU ARE FRIGHTENED
-REMEMBER CAVALIER MARK
-
+===== 2019/09/22 =====
+Fathom the Hag referred to her patron as [[:Gaygone, Prince of the Depths]]
 Fought Sea Hag
 Fought water monsters
 Emerald eye trap
