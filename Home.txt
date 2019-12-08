@@ -9,7 +9,7 @@ Created Saturday 03 August 2019
 
 Remember Eugene's Dragon Tooth that he stole from Albrek (Big Papa) who is chasing him across the multiverse to get it back.
 
-HP: 40
+HP: 49
 
 [[Inventory]]
 
@@ -32,10 +32,37 @@ long rest
 	[[Unwavering Mark]] (attacks only)
 
 
-===== 2019/09/28 =====
-HP: 9
-action surge
+===== Next Session =====
+Remember to care for the fey-wild swallow chicks
+Kuro owes me 4 gold
+
+Need to return Fathom's head to [[Seeker Nightshade]]
+
+===== 2019/12/07 =====
+Picked up fey-wild swallow chicks
+Returned Fathom's soul to Grimmi Corvus
+Returned to [[:Sigil]]
+Bribed devil patrol under [[Siriley]] who took over Sigil with 75GP
+Met Duncan (drow) in Sigil leading us through city to well
+Fought gargoyles in square around well
+met [[:Laika]] in underground refugee camp.
+Laika wants us to free the previous ruler of Sigil, [[:Ryze]] , held in [[Tower of the Worm]]
+  She wants us to break 4 seals housing a Phoenix in the armory near the Tower of the Worm
+  She wants us to enter the armory through a tunnel that funnels into a canal.
+  Armory is about quarter mile north of the Tower of the Worm
+
+Infiltrated the pipe
+
+
+HP 36
+wand of magic missle 6 charges
 second wind
+action surge
+
+
+===== 2019/09/28 =====
+Finished Fathom off
+Got [[:Wand of Magic Missle]]
 
 ===== 2019/09/22 =====
 Fathom the Hag referred to her patron as [[:Gaygone, Prince of the Depths]]

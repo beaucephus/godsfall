@@ -20,5 +20,11 @@ seaweed net
 leather armor
 
 ===== Other =====
-1200GP
+1157GP
 2 owl-bear beaks
+Nest of fey-wild swallow chicks.
+
+=== Explorer's Pack ===
+Backpack,bedroll,mess kit,tinderbox,torch (10),rations (10),waterskin,hempen rope
+
+
